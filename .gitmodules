@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/supatechie/react-node-sse-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/supatechie/react-node-sse-server.git
