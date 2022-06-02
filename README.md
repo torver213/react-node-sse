@@ -1,4 +1,6 @@
-# realtime-react-node-sse
+# Realtime Newsfeed Application Using React.js, Node.js & server-sent events(SSE)
+![Realtime Newsfeed App Using SSE](./client/public/react-sse-node.png)
+## About this project
 This is an implementation of a realtime data streaming in react js using server-sent events witn node js express server
 ## How to run this project
 Open client and server directories and read the README.md files to learn how to run the project.
